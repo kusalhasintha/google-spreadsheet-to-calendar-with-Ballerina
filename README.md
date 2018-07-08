@@ -20,7 +20,10 @@ In order for you to use the gsheets4 Connector, first you need to create a gshee
 	};
 	
 The credentials stored in the ballerina.conf file is accessed and assigned to authenticate the client.
+
+The spreadsheet must be in this format inorder to work with this code.
 	
+	https://docs.google.com/spreadsheets/d/1yUg43G15K_mlBA3MdaImMqT86XMmQ2nTZjxbN11KVOs/edit?usp=sharing
 
 ## Working with googleAPIs
 
